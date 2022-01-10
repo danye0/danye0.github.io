@@ -6,7 +6,7 @@
   <link href="http://danye0.github.io/atom.xml" rel="self"/>
   
   <link href="http://danye0.github.io/"/>
-  <updated>2022-01-10T04:37:28.251Z</updated>
+  <updated>2022-01-10T05:32:30.334Z</updated>
   <id>http://danye0.github.io/</id>
   
   <author>
@@ -17,115 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>前缀和与差分</title>
-    <link href="http://danye0.github.io/2022/01/07/acwing4/"/>
-    <id>http://danye0.github.io/2022/01/07/acwing4/</id>
-    <published>2022-01-07T08:08:37.000Z</published>
-    <updated>2022-01-10T04:37:28.251Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;以下的代码中，统一使用arr表示原数组，sum表示前缀和数组，B表示差分数组&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;前缀和&lt;/p&gt;
-&lt;p&gt;某个元素与它之前的所有元素之和。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;一维前缀和：&lt;/p&gt;
-&lt;pre class=&quot;line-numbers</summary>
-        
-      
+    <title>acwing1</title>
+    <link href="http://danye0.github.io/2022/01/10/acwing1/"/>
+    <id>http://danye0.github.io/2022/01/10/acwing1/</id>
+    <published>2022-01-10T05:32:30.000Z</published>
+    <updated>2022-01-10T05:32:30.334Z</updated>
     
     
     
-    <category term="学习笔记" scheme="http://danye0.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    
-    <category term="算法模板 java" scheme="http://danye0.github.io/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF-java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高精度</title>
-    <link href="http://danye0.github.io/2022/01/07/acwing3/"/>
-    <id>http://danye0.github.io/2022/01/07/acwing3/</id>
-    <published>2022-01-07T08:08:37.000Z</published>
-    <updated>2022-01-10T04:36:33.312Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;java的高精度比较简单，因为有BigInteger和BigDecimal这两个类，实在是太好用了捏。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;高精度加法：&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-java&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="http://danye0.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="算法模板 java" scheme="http://danye0.github.io/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF-java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二分</title>
-    <link href="http://danye0.github.io/2022/01/06/acwing2/"/>
-    <id>http://danye0.github.io/2022/01/06/acwing2/</id>
-    <published>2022-01-06T09:11:59.000Z</published>
-    <updated>2022-01-10T04:36:08.171Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;整数二分:&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code class=&quot;language-c++&quot;&gt;bool check(int x) &amp;#123;&amp;#x2F;*</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="http://danye0.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="算法模板 java" scheme="http://danye0.github.io/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF-java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>排序</title>
-    <link href="http://danye0.github.io/2022/01/03/acwing1/"/>
-    <id>http://danye0.github.io/2022/01/03/acwing1/</id>
-    <published>2022-01-03T03:51:38.000Z</published>
-    <updated>2022-01-10T04:35:29.970Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;快速排序&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="http://danye0.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="算法模板 java" scheme="http://danye0.github.io/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF-java/"/>
     
   </entry>
   
@@ -537,6 +437,32 @@
     
     
     <category term="Java" scheme="http://danye0.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个简单的仿真百度首页</title>
+    <link href="http://danye0.github.io/2021/05/10/article/"/>
+    <id>http://danye0.github.io/2021/05/10/article/</id>
+    <published>2021-05-10T13:20:55.000Z</published>
+    <updated>2021-07-11T14:47:23.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;学了一个多星期的html&amp;amp;css，给自己定了一项任务，还原百度首页。过程中遇到了很多没学到过的东西，自己在网上找了很多资料作参考，终于完成了任务的1%。本想继续做下去，但由于学业紧张，以及欠缺的知识太多，只好暂时放弃。&lt;/p&gt;
+&lt;h1 id=&quot;代码：&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="复盘总结" scheme="http://danye0.github.io/categories/%E5%A4%8D%E7%9B%98%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="CSS" scheme="http://danye0.github.io/tags/CSS/"/>
     
   </entry>
   
