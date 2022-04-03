@@ -6,7 +6,7 @@
   <link href="http://danye0.github.io/atom.xml" rel="self"/>
   
   <link href="http://danye0.github.io/"/>
-  <updated>2022-02-13T12:59:56.814Z</updated>
+  <updated>2022-01-10T04:36:33.312Z</updated>
   <id>http://danye0.github.io/</id>
   
   <author>
@@ -15,34 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>xxx</title>
-    <link href="http://danye0.github.io/2022/02/13/xxx/"/>
-    <id>http://danye0.github.io/2022/02/13/xxx/</id>
-    <published>2022-02-13T12:58:42.000Z</published>
-    <updated>2022-02-13T12:59:56.814Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;寒假过去一个多月了，决定还是把这个发给你，是之前元旦打算发给你的。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;​         从认识你到现在，也有半年了。之前说好了不再打扰你，但心里还是有很多话想说，所以就有了这么一大堆玩意儿。&lt;/p&gt;
-&lt;p&gt;​        </summary>
-        
-      
-    
-    
-    
-    <category term="无" scheme="http://danye0.github.io/categories/%E6%97%A0/"/>
-    
-    
-    <category term="无" scheme="http://danye0.github.io/tags/%E6%97%A0/"/>
-    
-  </entry>
   
   <entry>
     <title>高精度</title>
@@ -531,6 +503,31 @@
         
     <summary type="html">&lt;h1 id=&quot;识别类&quot;&gt;&lt;a href=&quot;#识别类&quot; class=&quot;headerlink&quot; title=&quot;识别类&quot;&gt;&lt;/a&gt;识别类&lt;/h1&gt;&lt;p&gt;“找名词与动词的原则”：识别类的简单规则是在分析问题的过程中寻找名词，而方法对应着动词。&lt;/p&gt;
 &lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="学习笔记" scheme="http://danye0.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Java" scheme="http://danye0.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Java核心技术卷1》第三章笔记</title>
+    <link href="http://danye0.github.io/2021/05/12/article3/"/>
+    <id>http://danye0.github.io/2021/05/12/article3/</id>
+    <published>2021-05-12T07:12:49.000Z</published>
+    <updated>2021-07-28T02:20:21.957Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;命令行窗口&quot;&gt;&lt;a href=&quot;#命令行窗口&quot; class=&quot;headerlink&quot; title=&quot;命令行窗口&quot;&gt;&lt;/a&gt;命令行窗口&lt;/h1&gt;&lt;p&gt;​                      1.javac</summary>
         
       
     
